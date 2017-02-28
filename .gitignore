@@ -1,0 +1,4 @@
+/MiniOS/Debug/*
+*.atsln
+*.atsuo
+/MiniOS/*.cproj
